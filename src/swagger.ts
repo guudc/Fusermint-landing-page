@@ -6,9 +6,9 @@ const options: swaggerJSDoc.Options = {
   definition: {
     openapi: '3.0.0',
     info: {
-      title: 'Presale Server API',
+      title: 'Fusermint Server API',
       version: '1.0.0',
-      description: 'Endpoints for presale contributions and stats',
+      description: 'Endpoints for fusermint landing pages',
     },
   },
   apis: ['src/routes/*.ts'],
