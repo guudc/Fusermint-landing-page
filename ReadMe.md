@@ -79,7 +79,7 @@ npm start
 Swagger documentation is available at:
 
 ```
-http://localhost:4000/api-docs
+http://localhost:4000/docs
 ```
 
 ---
